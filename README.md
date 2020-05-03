@@ -14,4 +14,4 @@ The whole project is done in React and uses a custom React hook by Dan Abramov. 
 
 
 
-[optional text](https://github.com/felixrichnow/SnakeInReact/blob/master/snakeimage.png?raw=true)
+(https://github.com/felixrichnow/SnakeInReact/blob/master/snakeimage.png?raw=true)
